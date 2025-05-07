@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(245, 242, 239);
+    background-color: white;
+    margin-top: 20px;
 }
 .header{
     display: flex;
@@ -7,136 +8,206 @@ body{
     
 }
 .catchhub{
-    height: 140px;
+    height: 124px;
     padding: 0px 0px 0px 123px;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 .text-1{
-    font-size:25px;
-    padding: 0px 0px 0px 75px;
-    margin-top: -20px;
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:2px ;
+    font-size:21px;
+    padding: 0px 0px 0px 50px;
+    margin-top: -8px;
 }
 .text-2{
-    padding: 0px 0px 0px 123px;
-    color: rgb(104, 106, 106);
-    font-size: 23px;
-    margin-top: -5px;
+    padding: 0px 0px 0px 89px;
+    color: rgb(104, 106, 110);
+    font-family: "Gill Sans", sans-serif;
+    margin-top: -10px;
+    letter-spacing: 1px;
+    font-size:large;
 
 }
 .phone-logos{
     display: flex;
-    justify-content: space-between;
-    padding: 0px 0px 0px 123px;
-    height: 60px;
-    width:310px ;
+    gap: 16px;
+    justify-content: space-around;
+    padding: 0px 0px 0px 78px;
+    margin-top: 48px;
+    height: 66px;
+    width:86px ;
+    box-shadow: 4px;
 
 }
 .header-img{
     height:380px ;
-    margin-top: 25px;
-    margin-right: 20px;
-    width: auto;
+    margin-top: 20px;
+    margin-right: 65px;
 
 }
 .section{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .section-img{
-    padding: 0px 0px 0px 50px;
-    height: 450px;
+    padding: 0px 0px 0px 32px;
+    height: 486px;
+    width:440px ;
+    margin-bottom: -80px;
 }
 .section-text{
-    margin-top: 100px;
+    margin-top: 144px;
 }
 .section-text1{
-    padding: 0px 0px 0px 100px;
-    font-size:x-large;
+    padding: 0px 0px 0px 70px;
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:1px ;
+    line-height:1px;
+    font-size:22px;
+    
 }
 .section-text2{
-margin-top:-20px ;
-font-size: x-large;
-padding: 0px 20px 0px 0px;
-color: rgb(104, 106, 106);
+    
+     font-family: "Gill Sans", sans-serif;
+     letter-spacing:1px;
+     margin-top:-20px ;
+     font-size: x-large; 
+     padding: 0px 56px 0px 0px;
+     color: rgb(104, 106, 106);
 }
 .section-text3{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:1px;
     margin-top:-40px ;
     font-size: x-large;
+    font-weight: 19px;
     padding: 0px 0px 0px 55px;
-    color: rgb(104, 106, 106);
-    
+    color: rgb(104, 106, 106);   
 }
 .main{
     display: flex;
     justify-content: space-around;
 }
 .maintext-all{
-    padding: 130px;
+    font-family: "Gill Sans", sans-serif;
+    /* padding: 130px; */
 
 }
 .main-text1{
-    padding: 0px 0px 0px 100px;
+    
+    letter-spacing:1px;
+    padding: 110px 0px 0px 196px;
     font-size: x-large;
     font-weight: bold;
 }
 .main-text2{
-    padding: 0px 0px 0px 50px;
+    letter-spacing:1px;
+    padding: 6px 0px 0px 140px;
     color: rgb(104, 106, 106);
     font-size: 25px;
     font-weight: 500;
     margin-top: -32px;
 }
 .main-text3{
-    padding: 0px 0px 0px 20px;
+    
+    letter-spacing:1px;
+    padding: 0px 0px 0px 130px;
     color: rgb(104, 106, 106);
     font-size: x-large;
     margin-top: -35px;
-
 }
 .main-tex4{
-    padding: 0px 0px 0px 70px;
+    letter-spacing:1px;
+    padding: 3px 0px 0px 186px;
     color: rgb(104, 106, 106);
     margin-top: -38px;
     font-size: x-large;
-
 }
 .main-img{
-    height: 400px;
-    margin-top:12px ;
+    height: 420px;
+    padding:0px 80px 0px 0px;
+    margin-top: -10px ;
 }
 .article{
     display: flex;
     justify-content: space-around;
-
 }
 .article-img{
-    height: 450px;
+    height: 550px;
+    width: 470px;
     padding: 0px 0px 0px 30px;
 }
 .article-logo{
-    width:520px ;
-    padding-right:190px ;
-    margin-top:80px ;
-
+    position: relative;
+    left: -122px;
+    width:440px ;
+    margin-top:86px ;
 }
 .article-text1{
-    padding: 0px 0px 0px 130px;
+    padding: 28px 0px 0px 52px;
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:1px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.article-text2{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:2px;
+    padding: 36px 124px 0px 0px;
+    color: rgb(104, 106, 106);
+    font-size: 25px;
+    font-weight:lighter;
+    margin-top: -32px;
+}
+.article-text3{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:2.5px;
+    padding: 0px 120px 0px 0px;
+    color: rgb(104, 106, 106);
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: -32px;
+    position: relative;
+    left: -26px;
+}
+.article-text4{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:2px;
+    padding: 0px 10px 0px 26px;
+    color: rgb(104, 106, 106);
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: -32px;
 }
 .footer{
-    padding: 10px 10px 1px 350px;
-
+    padding: 10px 10px 1px 300px;
 }
-.footer-logo{
+.footer-text1{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:1px;
+    font-size: 19px;
+    padding: 0px 0px 0px 80px ;
+}
+.footer-logo1{   
     display: flex;
-    gap: 20px;
-    height: 60px;
-    padding: 0px 0px 0px 10px ;
+    gap: 16px;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding:8px 0px 0px 28px ;
+    height: 64px;
+    width:76px ;
+    position: relative;
+    left:-23 ;
+}
+.footer-text2{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:1px;
+    padding:12px 0px 0px 28px ;
 }
 .contact{
     text-decoration: none;
-    color: aqua;
 }
 .footer2-logo{
-    padding:12px 23px 9px 95px ;
-    width:130px ;
+    padding:0px 23px 0px 152px ;
+    width:120px ;
 }
