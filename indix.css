@@ -1,6 +1,6 @@
 body{
     background-color: white;
-    margin-top: 20px;
+    margin-top: 66px;
 }
 .header{
     display: flex;
@@ -8,72 +8,71 @@ body{
     
 }
 .catchhub{
-    height: 124px;
-    padding: 0px 0px 0px 123px;
-    margin-top: 40px;
+    height: 170px;
+    padding: 40px 0px 0px 106px;
+    /* margin-top: 40px; */
 }
 .text-1{
     font-family: "Gill Sans", sans-serif;
-    letter-spacing:2px ;
+    letter-spacing:4px ;
     font-size:21px;
-    padding: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 75px;
     margin-top: -8px;
 }
 .text-2{
-    padding: 0px 0px 0px 89px;
+    padding: 0px 0px 0px 110px;
     color: rgb(104, 106, 110);
     font-family: "Gill Sans", sans-serif;
+    font-size:x-large;
     margin-top: -10px;
-    letter-spacing: 1px;
-    font-size:large;
-
+    /* letter-spacing: 1px; */
 }
 .phone-logos{
     display: flex;
     gap: 16px;
     justify-content: space-around;
-    padding: 0px 0px 0px 78px;
+    padding: 0px 0px 0px 114px;
     margin-top: 48px;
-    height: 66px;
+    height: 70px;
     width:86px ;
     box-shadow: 4px;
 
 }
 .header-img{
-    height:380px ;
+    height:450px ;
     margin-top: 20px;
     margin-right: 65px;
-
 }
 .section{
     display: flex;
     justify-content: space-between;
+    padding-top: 56px;
 }
 .section-img{
     padding: 0px 0px 0px 32px;
-    height: 486px;
-    width:440px ;
+    height: 550px;
+    width: 570px ;
     margin-bottom: -80px;
 }
 .section-text{
     margin-top: 144px;
 }
 .section-text1{
-    padding: 0px 0px 0px 70px;
+    padding: 0px 0px 0px 120px;
     font-family: "Gill Sans", sans-serif;
-    letter-spacing:1px ;
-    line-height:1px;
-    font-size:22px;
+    letter-spacing:2px ;
+    font-size:26px;
     
 }
 .section-text2{
     
      font-family: "Gill Sans", sans-serif;
-     letter-spacing:1px;
+     letter-spacing:2px;
      margin-top:-20px ;
-     font-size: x-large; 
-     padding: 0px 56px 0px 0px;
+     /* font-size: x-large;  */
+     padding: 0px 130px 0px 0px;
      color: rgb(104, 106, 106);
+     font-size:25px;
 }
 .section-text3{
     font-family: "Gill Sans", sans-serif;
@@ -81,7 +80,7 @@ body{
     margin-top:-40px ;
     font-size: x-large;
     font-weight: 19px;
-    padding: 0px 0px 0px 55px;
+    padding: 0px 0px 0px 80px;
     color: rgb(104, 106, 106);   
 }
 .main{
@@ -91,64 +90,63 @@ body{
 .maintext-all{
     font-family: "Gill Sans", sans-serif;
     /* padding: 130px; */
+    
 
 }
 .main-text1{
-    
     letter-spacing:1px;
-    padding: 110px 0px 0px 196px;
-    font-size: x-large;
-    font-weight: bold;
+    padding: 150px 0px 0px 196px;
+    font-size: xx-large;
 }
 .main-text2{
-    letter-spacing:1px;
+    letter-spacing:3px;
     padding: 6px 0px 0px 140px;
     color: rgb(104, 106, 106);
     font-size: 25px;
-    font-weight: 500;
-    margin-top: -32px;
+    margin-top: -36px;
 }
 .main-text3{
     
-    letter-spacing:1px;
-    padding: 0px 0px 0px 130px;
+    letter-spacing:3px;
+    padding: 0px 0px 0px 132px;
     color: rgb(104, 106, 106);
     font-size: x-large;
     margin-top: -35px;
 }
 .main-tex4{
-    letter-spacing:1px;
-    padding: 3px 0px 0px 186px;
+    letter-spacing:3px;
+    padding: 3px 0px 0px 196px;
     color: rgb(104, 106, 106);
     margin-top: -38px;
     font-size: x-large;
 }
 .main-img{
-    height: 420px;
+    height: 520px;
     padding:0px 80px 0px 0px;
-    margin-top: -10px ;
+    margin-top: -16px ;
 }
 .article{
     display: flex;
     justify-content: space-around;
 }
 .article-img{
-    height: 550px;
-    width: 470px;
-    padding: 0px 0px 0px 30px;
+    height: 670px;
+    width: 540px;
+    padding: 0px 0px 0px 26px;
 }
 .article-logo{
     position: relative;
-    left: -122px;
-    width:440px ;
-    margin-top:86px ;
+    left: -176px;
+    width:560px ;
+    height: 84px;
+    margin-top:92px ;
 }
 .article-text1{
-    padding: 28px 0px 0px 52px;
+    padding: 42px 0px 0px 52px;
     font-family: "Gill Sans", sans-serif;
-    letter-spacing:1px;
-    font-size: x-large;
-    font-weight: bold;
+    letter-spacing:2px;
+    font-size: xx-large;
+
 }
 .article-text2{
     font-family: "Gill Sans", sans-serif;
@@ -180,34 +178,35 @@ body{
     margin-top: -32px;
 }
 .footer{
-    padding: 10px 10px 1px 300px;
+    padding: 0px 10px 1px 300px;
 }
 .footer-text1{
     font-family: "Gill Sans", sans-serif;
     letter-spacing:1px;
-    font-size: 19px;
-    padding: 0px 0px 0px 80px ;
+    font-size: x-large;
+    padding: 24px 0px 0px 150px ;
 }
 .footer-logo1{   
     display: flex;
     gap: 16px;
     justify-content: space-around;
     margin-top: 20px;
-    padding:8px 0px 0px 28px ;
-    height: 64px;
-    width:76px ;
+    padding:8px 0px 0px 90px ;
+    height: 78px;
+    width:84px ;
     position: relative;
     left:-23 ;
 }
 .footer-text2{
     font-family: "Gill Sans", sans-serif;
-    letter-spacing:1px;
-    padding:12px 0px 0px 28px ;
+    letter-spacing:2px;
+    padding:18px 0px 0px 92px ;
+    font-size: large;
 }
 .contact{
     text-decoration: none;
 }
 .footer2-logo{
-    padding:0px 23px 0px 152px ;
+    padding:22px 23px 0px 252px ;
     width:120px ;
 }
